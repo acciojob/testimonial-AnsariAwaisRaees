@@ -1,24 +1,21 @@
 /*  your css code here. If applicable */
 .testimonial-container {
-            background-color: #f5f5f5;
-            padding: 20px;
-        }
+    background-color: #f5f5f5;
+    padding: 20px;
+}
 
-        /* Style for individual testimonial boxes */
-        .testimonial-box {
-            background-color: white;
-            padding: 20px;
-            border: 1px solid #ddd;
-            margin: 10px;
-        }
+.testimonial-box {
+    background-color: white;
+    padding: 20px;
+    border: 1px solid #ddd;
+    margin: 10px;
+}
 
-        /* Style for testimonial text */
-        .testimonial-text {
-            font-size: 16px;
-        }
+.testimonial-text {
+    font-size: 16px;
+}
 
-        /* Style for author's name */
-        .author-name {
-            text-align: right;
-            font-style: italic;
-        }
+.author-name {
+    text-align: right;
+    font-style: italic;
+}
